@@ -2,3 +2,5 @@
 negonegi
 
 nego
+
+sub1を作成しました
